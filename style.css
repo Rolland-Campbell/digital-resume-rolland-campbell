@@ -1,0 +1,19 @@
+.text-center{
+  text-align: center;
+}
+
+#summary{
+  color: blue;
+}
+
+.text-left{
+  text-align: left;
+}
+
+.blue {
+  color: blue;
+}
+
+*{
+  outline: 1px solid red;
+}
