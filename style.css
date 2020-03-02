@@ -1,19 +1,19 @@
-.text-center{
-  text-align: center;
+body{
+  min-height: 100vh;
+  display: flexbox;
+  margin: auto;
 }
 
-#summary{
-  color: blue;
+header{
+  padding: 3vh;
+  justify-content: space-between;
 }
 
-.text-left{
-  text-align: left;
+#skills{
+  display: flex;
+  justify-content: space-evenly;
 }
 
-.blue {
-  color: blue;
-}
-
-*{
-  outline: 1px solid red;
+a {
+  color: black;
 }
